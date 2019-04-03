@@ -19,4 +19,4 @@ DESCRIPTION
 ```
 
 ## Bonus
-create a pong in Ncurses
+Create a pong in Ncurses
