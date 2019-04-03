@@ -16,6 +16,7 @@ DESCRIPTION
         y1    ball ordinate at time t
         z1    ball altitude at time t
         n     time shift (greater than or equal to zero, integrer
+```
 
 ## Bonus
 create a pong in Ncurses
